@@ -2,14 +2,14 @@
 ### Hi there, I'm AW - aka [WHO] 👋
 
 ## I'm a Student, Undergraduate and Developer!
-- 🔭 I'm currently in my first year of University
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I'm currently in my first year of University.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡  Fun fact: I love to play chess and listening music.
 
 ### Connect with me:
 
-- 🌱 Don't
+- 🌱 Don't.
 <br />
 
 ---
