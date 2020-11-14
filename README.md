@@ -7,6 +7,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡  Fun fact: I love to play chess and listening music.
 
+
+### highest WPM is 85
+
 ### Connect with me:
 
 - 🌱 Don't.
