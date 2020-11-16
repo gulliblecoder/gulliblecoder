@@ -8,7 +8,7 @@
 - ⚡  Fun fact: I love to play chess and listening music.
 
 
-### highest WPM is 85
+### highest WPM is 95
 
 ### Connect with me:
 
