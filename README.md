@@ -4,11 +4,11 @@
 ## I'm a Student, Undergraduate and Developer!
 - 🔭 I'm currently in my first year of University.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡  Fun fact: I love to play chess and listening to music.
 
 
-### highest WPM is 95
+### highest WPM is 98
 
 ### Connect with me:
 
