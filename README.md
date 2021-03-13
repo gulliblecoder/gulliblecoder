@@ -7,9 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡  Fun fact: I love to play chess and listening to music.
 
-
-### highest WPM is 98
-
 ### Connect with me:
 
 - 🌱 Don't.
