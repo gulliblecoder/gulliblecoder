@@ -1,5 +1,5 @@
 # About-ME
-### Hi there, I'm AW - aka [WHO] 👋
+### Hi 👋
 
 ## I'm a Student, Undergraduate and Developer!
 - 🔭 I'm currently in my second year of University.
