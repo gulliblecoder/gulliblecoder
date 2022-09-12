@@ -1,8 +1,7 @@
 # About-ME
 ### Hi 👋
 
-## I'm a Student, Undergraduate and Developer!
-- 🔭 I'm currently in my first year of University.
+## I'm a Developer!
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡  Fun fact: I hate playing chess.
