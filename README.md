@@ -7,7 +7,7 @@
 - ⚡  Fun fact: I hate playing chess.
 
 ### Connect with me:
-- follow Uzzy on Insta
+- no
 <br />
 
 ---
